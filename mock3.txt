@@ -1,1 +1,2 @@
-
+CHECK MEMORY SIZE IN JAVA?
+getRuntime. totalMemory() to get total memory from JVM which represents the current heap size of JVM .
